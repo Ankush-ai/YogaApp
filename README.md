@@ -13,3 +13,6 @@ Technology Stack:
 Frontend: HTML, CSS, JavaScript
 Backend: Spring Boot (Java), MySQL
 See setup instructions, database configuration, and testing details in the README.
+
+![image](https://github.com/Ankush-ai/YogaApp/assets/83574516/1d2e6b13-21a7-4cae-88c9-98cd65a9854f)
+
