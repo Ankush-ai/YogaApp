@@ -1,5 +1,5 @@
 
-Yoga Class Admission System
+#Yoga Class Admission System
 Description
 The Yoga Class Admission System simplifies participant enrollment for monthly yoga classes. Built with a responsive web interface, the system allows users to sign up, select class batches, and make monthly fee payments. The backend, implemented in Spring Boot (Java), utilizes a MySQL database. The project structure includes separate packages for controllers, repositories, and entities.
 
